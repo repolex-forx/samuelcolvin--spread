@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/samuelcolvin/spread/commit/180cfaccbcc0304233cfb6e8417c5c82641df59b",
       "git:hexsha": "180cfaccbcc0304233cfb6e8417c5c82641df59b",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }

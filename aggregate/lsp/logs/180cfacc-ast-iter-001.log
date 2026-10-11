@@ -1,0 +1,7 @@
+[2026-10-11T04:55:16Z] === AST ITERATION 1 START | repo=samuelcolvin/spread sha=180cfacc ===
+[2026-10-11T04:55:16Z] [iter=1] PHASE START: ast repo=samuelcolvin/spread sha=180cfacc
+[2026-10-11T04:55:16Z] [iter=1] Building AST aggregate chunks
+[2026-10-11T04:55:46Z] [iter=1] AST chunks built count=1 triples=430825
+[2026-10-11T04:55:46Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/180cfaccbcc0304233cfb6e8417c5c82641df59b/.complete
+[2026-10-11T04:55:46Z] [iter=1] PHASE END: ast elapsed_s=30 elapsed_min=0.5
+[2026-10-11T04:55:46Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
